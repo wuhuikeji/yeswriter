@@ -1,80 +1,80 @@
-**Privacy Policy**
+**Kebijakan Privasi**
 
-DragonNest built the YesWriter app as a Free app. This SERVICE is provided by DragonNest at no cost and is intended for use as is.
+DragonNest membangun aplikasi YesWriter sebagai aplikasi gratis. LAYANAN ini disediakan oleh DragonNest tanpa biaya dan dimaksudkan untuk digunakan apa adanya.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+Halaman ini digunakan untuk memberitahukan pengunjung mengenai kebijakan saya terkait pengumpulan, penggunaan, dan pengungkapan Informasi Pribadi jika ada yang memutuskan untuk menggunakan Layanan saya.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+Jika Anda memilih untuk menggunakan Layanan saya, maka Anda setuju dengan pengumpulan dan penggunaan informasi yang berkaitan dengan kebijakan ini. Informasi Pribadi yang saya kumpulkan digunakan untuk menyediakan dan meningkatkan Layanan. Saya tidak akan menggunakan atau membagikan informasi Anda dengan siapa pun kecuali sebagaimana dijelaskan dalam Kebijakan Privasi ini.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at YesWriter unless otherwise defined in this Privacy Policy.
+Istilah yang digunakan dalam Kebijakan Privasi ini memiliki arti yang sama seperti dalam Syarat dan Ketentuan kami, yang dapat diakses di YesWriter kecuali jika ditentukan lain dalam Kebijakan Privasi ini.
 
-**Information Collection and Use**
+**Pengumpulan dan Penggunaan Informasi**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+Untuk pengalaman yang lebih baik, saat menggunakan Layanan kami, saya mungkin meminta Anda untuk memberikan informasi yang dapat diidentifikasi secara pribadi. Informasi yang saya minta akan disimpan di perangkat Anda dan tidak dikumpulkan oleh saya dengan cara apa pun.
 
-The app does use third-party services that may collect information used to identify you.
+Aplikasi ini menggunakan layanan pihak ketiga yang mungkin mengumpulkan informasi yang digunakan untuk mengidentifikasi Anda.
 
-Link to the privacy policy of third-party service providers used by the app
+Tautan ke kebijakan privasi penyedia layanan pihak ketiga yang digunakan oleh aplikasi
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+*   [Layanan Google Play](https://www.google.com/policies/privacy/)
+*   [Google Analytics untuk Firebase](https://firebase.google.com/policies/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 
-**Requested Permissions**
+**Izin yang Diminta**
 
-- **Read and write access to storage in a specified external folder**: This is not a full access permission. The application will only store user-downloaded images, backup data, etc., in a specified folder. The application will have read and write permissions only for that directory. We will not access any other file content without your knowledge.
+- **Akses baca dan tulis ke penyimpanan di folder eksternal tertentu**: Ini bukan izin akses penuh. Aplikasi hanya akan menyimpan gambar yang diunduh pengguna, data cadangan, dll., di folder tertentu. Aplikasi hanya akan memiliki izin baca dan tulis untuk direktori itu. Kami tidak akan mengakses konten file lain tanpa sepengetahuan Anda.
 
-- **Camera permission**: We request this permission when you insert an image into text and use the camera to take a photo.
+- **Izin kamera**: Kami meminta izin ini saat Anda menyisipkan gambar ke dalam teks dan menggunakan kamera untuk mengambil foto.
 
-- **Fingerprint reading permission**: We request this permission when you set up fingerprint password lock. Once authorized, you can use your fingerprint to unlock the application or text files.
+- **Izin pembacaan sidik jari**: Kami meminta izin ini saat Anda mengatur kunci kata sandi sidik jari. Setelah diotorisasi, Anda dapat menggunakan sidik jari Anda untuk membuka kunci aplikasi atau file teks.
 
-- **Notification access**: We request this permission when you use the to-do list notification feature. Once authorized, the to-do list items will appear in the notification bar.
+- **Akses notifikasi**: Kami meminta izin ini saat Anda menggunakan fitur notifikasi daftar tugas. Setelah diotorisasi, item daftar tugas akan muncul di bilah notifikasi.
 
-- **Read WiFi connection status**: Some features distinguish between WiFi and mobile data networks, enabling data backups under WiFi to save data usage.
+- **Membaca status koneksi WiFi**: Beberapa fitur membedakan antara jaringan WiFi dan data seluler, memungkinkan cadangan data di bawah WiFi untuk menghemat penggunaan data.
 
-**Data and Backup**
+**Data dan Cadangan**
 
-We provide two backup options: local backup and cloud backup. By default, the application does not perform automatic backups. The application only supports third-party cloud storage as your cloud backup space. We do not offer an official cloud backup storage service, so you can configure services like Google Drive or Dropbox as your cloud backup space within the application. Backup data will be saved in **.ywrs** format at the location you specify, such as your Google Drive or a designated folder on your device.
+Kami menyediakan dua opsi cadangan: cadangan lokal dan cadangan cloud. Secara default, aplikasi tidak melakukan cadangan otomatis. Aplikasi hanya mendukung penyimpanan cloud pihak ketiga sebagai ruang cadangan cloud Anda. Kami tidak menawarkan layanan penyimpanan cadangan cloud resmi, sehingga Anda dapat mengonfigurasi layanan seperti Google Drive atau Dropbox sebagai ruang cadangan cloud Anda dalam aplikasi. Data cadangan akan disimpan dalam format **.ywrs** di lokasi yang Anda tentukan, seperti Google Drive Anda atau folder tertentu di perangkat Anda.
 
-**Log Data**
+**Data Log**
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+Saya ingin memberitahu Anda bahwa setiap kali Anda menggunakan Layanan saya, dalam hal terjadi kesalahan pada aplikasi saya mengumpulkan data dan informasi (melalui produk pihak ketiga) di ponsel Anda yang disebut Data Log. Data Log ini dapat mencakup informasi seperti alamat Protokol Internet (“IP”) perangkat Anda, nama perangkat, versi sistem operasi, konfigurasi aplikasi saat menggunakan Layanan saya, waktu dan tanggal penggunaan Layanan, dan statistik lainnya.
 
 **Cookies**
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+Cookies adalah file dengan sejumlah kecil data yang biasanya digunakan sebagai pengenal unik anonim. Ini dikirim ke browser Anda dari situs web yang Anda kunjungi dan disimpan di memori internal perangkat Anda.
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Layanan ini tidak secara eksplisit menggunakan “cookies” ini. Namun, aplikasi mungkin menggunakan kode dan pustaka pihak ketiga yang menggunakan “cookies” untuk mengumpulkan informasi dan meningkatkan layanan mereka. Anda memiliki opsi untuk menerima atau menolak cookies ini dan mengetahui ketika cookie dikirim ke perangkat Anda. Jika Anda memilih untuk menolak cookies kami, Anda mungkin tidak dapat menggunakan beberapa bagian dari Layanan ini.
 
-**Service Providers**
+**Penyedia Layanan**
 
-I may employ third-party companies and individuals due to the following reasons:
+Saya mungkin mempekerjakan perusahaan dan individu pihak ketiga karena alasan berikut:
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+*   Untuk memfasilitasi Layanan kami;
+*   Untuk menyediakan Layanan atas nama kami;
+*   Untuk melakukan layanan yang terkait dengan Layanan; atau
+*   Untuk membantu kami menganalisis bagaimana Layanan kami digunakan.
 
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Saya ingin memberitahu pengguna Layanan ini bahwa pihak ketiga ini memiliki akses ke Informasi Pribadi mereka. Alasannya adalah untuk melaksanakan tugas yang diberikan kepada mereka atas nama kami. Namun, mereka berkewajiban untuk tidak mengungkapkan atau menggunakan informasi tersebut untuk tujuan lain.
 
-**Security**
+**Keamanan**
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+Saya menghargai kepercayaan Anda dalam memberikan Informasi Pribadi Anda kepada kami, oleh karena itu kami berusaha untuk menggunakan cara yang dapat diterima secara komersial untuk melindunginya. Tetapi ingatlah bahwa tidak ada metode transmisi melalui internet, atau metode penyimpanan elektronik yang 100% aman dan dapat diandalkan, dan saya tidak dapat menjamin keamanannya secara mutlak.
 
-**Links to Other Sites**
+**Tautan ke Situs Lain**
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Layanan ini mungkin berisi tautan ke situs lain. Jika Anda mengklik tautan pihak ketiga, Anda akan diarahkan ke situs tersebut. Perlu dicatat bahwa situs eksternal ini tidak dioperasikan oleh saya. Oleh karena itu, saya sangat menyarankan Anda untuk meninjau Kebijakan Privasi situs web ini. Saya tidak memiliki kontrol atas dan tidak bertanggung jawab atas konten, kebijakan privasi, atau praktik situs atau layanan pihak ketiga mana pun.
 
-**Children’s Privacy**
+**Privasi Anak-Anak**
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+Layanan ini tidak ditujukan kepada siapa pun yang berusia di bawah 13 tahun. Saya tidak secara sengaja mengumpulkan informasi yang dapat diidentifikasi secara pribadi dari anak-anak di bawah usia 13 tahun. Jika saya menemukan bahwa seorang anak di bawah 13 tahun telah memberikan informasi pribadi kepada saya, saya segera menghapusnya dari server kami. Jika Anda adalah orang tua atau wali dan Anda mengetahui bahwa anak Anda telah memberikan informasi pribadi kepada kami, harap hubungi saya agar saya dapat mengambil tindakan yang diperlukan.
 
-**Changes to This Privacy Policy**
+**Perubahan pada Kebijakan Privasi Ini**
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+Saya dapat memperbarui Kebijakan Privasi kami dari waktu ke waktu. Oleh karena itu, Anda disarankan untuk meninjau halaman ini secara berkala untuk melihat perubahan. Saya akan memberi tahu Anda tentang perubahan tersebut dengan memposting Kebijakan Privasi yang baru di halaman ini.
 
-This policy is effective as of 2024-10-01
+Kebijakan ini berlaku mulai 2024-10-01
 
-**Contact Us**
+**Hubungi Kami**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at yeswriter.app@gmail.com.
+Jika Anda memiliki pertanyaan atau saran tentang Kebijakan Privasi saya, jangan ragu untuk menghubungi saya di yeswriter.app@gmail.com.

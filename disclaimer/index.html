@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script type="text/javascript">
+        //  = "http://www.baidu.com"
+        urlParams = new URLSearchParams(window.location.search);
+        lang = urlParams.get('lang')
+        console.log(lang)
+        if (lang) {
+            if (lang.startsWith("zh")) {
+                    if (lang.startsWith("zh-cn")) {
+                         window.location.href = "zh"
+                    } else {
+                         window.location.href = "zh-tw"
+                    }
+            } else if (lang.startsWith("de")) {
+                window.location.href = "de"
+            } else if (lang.startsWith("in")) {
+                window.location.href = "in"
+            } else if (lang.startsWith("it")) {
+                window.location.href = "it"
+            } else if (lang.startsWith("ru")) {
+                window.location.href = "ru"
+            } else if (lang.startsWith("tr")) {
+                window.location.href = "tr"
+            } else if (lang.startsWith("pl")) {
+                window.location.href = "pl"
+            } else if (lang.startsWith("ja")) {
+                window.location.href = "ja"
+            } else if (lang.startsWith("ko")) {
+                window.location.href = "ko"
+            } else if (lang.startsWith("fr")) {
+                window.location.href = "fr"
+            } else if (lang.startsWith("pt")) {
+                window.location.href = "pt"
+            } else if (lang.startsWith("ar")) {
+                window.location.href = "ar"
+            } else {
+                window.location.href = "index_default"
+            }
+        } else {
+            window.location.href = "index_default"
+        }
+    </script>
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+</html>
