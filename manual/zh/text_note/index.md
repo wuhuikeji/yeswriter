@@ -1,4 +1,4 @@
-[用户手册](/drawnote/manual/zh) >
+[用户手册](/yeswriter/manual/zh) >
 
 
 

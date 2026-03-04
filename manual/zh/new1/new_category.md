@@ -1,4 +1,4 @@
-[用户手册](/drawnote/manual/zh) > [文字笔记](/drawnote/manual/zh/text_note) >
+[用户手册](/yeswriter/manual/zh) > [文字笔记](/yeswriter/manual/zh/text_note) >
 
 新建类别
 ---

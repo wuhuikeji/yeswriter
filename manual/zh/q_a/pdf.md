@@ -1,4 +1,4 @@
-[用户手册](/drawnote/manual/zh) > [常见问题](/drawnote/manual/zh/q_a) >
+[用户手册](/yeswriter/manual/zh) > [常见问题](/yeswriter/manual/zh/q_a) >
 
 关于PDF 功能
 ---

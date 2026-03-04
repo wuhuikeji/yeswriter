@@ -1,4 +1,4 @@
-[用户手册](/drawnote/manual/zh) > [文件夹](/drawnote/manual/zh/folder) >
+[用户手册](/yeswriter/manual/zh) > [文件夹](/yeswriter/manual/zh/folder) >
 
 列表样式
 ---

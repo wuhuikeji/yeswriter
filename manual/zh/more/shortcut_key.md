@@ -1,4 +1,4 @@
-[用户手册](/drawnote/manual/zh) > [更多](/drawnote/manual/zh/more) >
+[用户手册](/yeswriter/manual/zh) > [更多](/yeswriter/manual/zh/more) >
 
 快捷键和鼠标输入功能
 ---
