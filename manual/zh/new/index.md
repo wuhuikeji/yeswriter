@@ -10,3 +10,5 @@
 - [新建类别](new_category.md)
 
 - [新建书籍](new_book.md)
+
+- [新建文件夹](new_folder.md)
