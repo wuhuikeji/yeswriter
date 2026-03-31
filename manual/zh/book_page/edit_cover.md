@@ -1,15 +1,15 @@
 [用户手册](/yeswriter/manual/zh) > [文字笔记](/yeswriter/manual/zh/text_note) >
 
-新建书籍
+编辑封面
 ---
-
 #### 操作步骤
 
-1. 点击「文件夹」；
-2. 点击“+”；
-3. 输入书名。
+1.点击右上角“更多”；
 
-![](imgs/new_book1.png)
+2.点击“编辑”，进入封面编辑页面。
+
+
+![](imgs/edit_cover.png)
 
 #### 提示
 
