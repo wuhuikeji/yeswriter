@@ -13,6 +13,6 @@
 
 - [关联书籍](link_book.md)
 
-- [排序方式](reading_mode.md)
+- [排序方式](sort_by.md)
 
 
