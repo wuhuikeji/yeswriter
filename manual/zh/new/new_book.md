@@ -1,11 +1,11 @@
-[用户手册](/yeswriter/manual/zh) > [文字笔记](/yeswriter/manual/zh/text_note) >
+[用户手册](/yeswriter/manual/zh) > [新建](/yeswriter/manual/zh/new) >
 
 新建书籍
 ---
 
 #### 操作步骤
 
-1. 点击「文件夹」；
+1. 进入「文件夹」页面；
 2. 点击“+”；
 3. 输入书名。
 

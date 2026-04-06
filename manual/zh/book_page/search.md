@@ -1,4 +1,4 @@
-[用户手册](/yeswriter/manual/zh) > [文字笔记](/yeswriter/manual/zh/text_note) >
+[用户手册](/yeswriter/manual/zh) > [书籍页面操作](/yeswriter/manual/zh/book_page) >
 
 搜索
 ---

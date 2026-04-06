@@ -9,9 +9,9 @@
 
 - [书籍页面操作](book_page/index.md)
 
-- [笔记页面操作](book_page/index.md)
+- [笔记页面操作](notes_page/index.md)
 
-- [文件夹](book_page/index.md)
+- [文件夹](folder/index.md)
 
 - [待办事项清单](to_do/index.md)
 

@@ -1,4 +1,4 @@
-[用户手册](/yeswriter/manual/zh) > [文字笔记](/yeswriter/manual/zh/text_note) >
+[用户手册](/yeswriter/manual/zh) > [笔记页面操作](/yeswriter/manual/zh/notes_page) >
 
 插入图片
 ---

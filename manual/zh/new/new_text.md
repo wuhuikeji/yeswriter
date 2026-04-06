@@ -1,10 +1,10 @@
-[用户手册](/yeswriter/manual/zh) > [文字笔记](/yeswriter/manual/zh/text_note) >
+[用户手册](/yeswriter/manual/zh) > [新建](/yeswriter/manual/zh/new) >
 
 新建文本
 ---
 #### 操作步骤
 
-在「最近」页面，点击右下角绿色“+”按钮，即可新建笔记。
+进入「最近」页面，点击右下角绿色“+”按钮，即可新建笔记。
 
 ![](imgs/new_text.png)
 

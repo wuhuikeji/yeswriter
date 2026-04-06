@@ -1,10 +1,10 @@
-[用户手册](/yeswriter/manual/zh) > [文字笔记](/yeswriter/manual/zh/text_note) >
+[用户手册](/yeswriter/manual/zh) > [文件夹](/yeswriter/manual/zh/folder) >
 
 新建文件夹
 ---
 #### 操作步骤
 
-1. 点击「文件夹」；
+1. 进入「文件夹」页面；
 2. 点击“新建文件夹”；
 3. 输入文件夹名称。
 

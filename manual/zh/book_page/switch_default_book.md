@@ -1,10 +1,10 @@
-[用户手册](/yeswriter/manual/zh) > [文字笔记](/yeswriter/manual/zh/text_note) >
+[用户手册](/yeswriter/manual/zh) > [书籍页面操作](/yeswriter/manual/zh/book_page) >
 
 切换默认书籍
 ---
 #### 操作步骤
 
-1. 打开「最新」页面；
+1. 进入「最新」页面；
 
 2. 点击“更多”按钮；
 
