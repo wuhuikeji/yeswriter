@@ -13,4 +13,4 @@
 4.打开 "自动备份"按钮并选择备份间隔时间，以保护数据和应对意外情况。
 
 
-![](imgs/automatic_backup1.png)
+![](imgs/automatic_backup.png)

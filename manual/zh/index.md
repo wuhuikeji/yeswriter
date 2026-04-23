@@ -17,8 +17,8 @@
 
 - [数据备份和恢复](data_backup_and_recovery/index.md)
 
-- [设置](more/index.md)
+- [设置](settings/index.md)
 
-- [更多](more/index.md)
+
 
 
