@@ -1,6 +1,6 @@
 [用户手册](/yeswriter/manual/zh) > [待办事项](/yeswriter/manual/zh/to_do) >
 
-新建待办事项
+创建待办事项
 ---
 #### 操作步骤
 

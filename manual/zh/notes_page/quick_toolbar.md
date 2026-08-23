@@ -1,6 +1,6 @@
-[用户手册](/yeswriter/manual/zh) > [笔记页面操作](/yeswriter/manual/zh/notes_page) >
+[用户手册](/yeswriter/manual/zh) > [文本编辑](/yeswriter/manual/zh/notes_page) >
 
-快捷工具栏
+使用快捷工具栏
 ---
 在快捷工具栏中，可快速插入括号、引号、时间戳，或打开剪贴板等。
 

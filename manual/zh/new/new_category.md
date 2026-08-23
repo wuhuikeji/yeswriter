@@ -1,6 +1,6 @@
-[用户手册](/yeswriter/manual/zh) > [新建](/yeswriter/manual/zh/new) >
+[用户手册](/yeswriter/manual/zh) > [创建内容](/yeswriter/manual/zh/new) >
 
-新建类别
+添加类别
 ---
 #### 操作步骤
 

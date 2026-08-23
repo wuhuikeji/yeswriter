@@ -1,6 +1,6 @@
-[用户手册](/yeswriter/manual/zh) > [书籍页面操作](/yeswriter/manual/zh/book_page) >
+[用户手册](/yeswriter/manual/zh) > [书籍管理](/yeswriter/manual/zh/book_page) >
 
-关联书籍
+关联素材书籍
 ---
 #### 操作步骤
 
@@ -14,5 +14,4 @@
 
 #### 提示
 
-书籍支持相互关联。
-创作主文稿时，可关联素材书籍，用于集中管理与随时查阅。
+书籍支持相互关联。创作主文稿时，可关联素材书籍，用于集中管理与随时查阅。

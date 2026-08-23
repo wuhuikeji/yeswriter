@@ -1,6 +1,6 @@
-[用户手册](/yeswriter/manual/zh) > [新建](/yeswriter/manual/zh/new) >
+[用户手册](/yeswriter/manual/zh) > [创建内容](/yeswriter/manual/zh/new) >
 
-新建书籍
+创建书籍
 ---
 
 #### 操作步骤
@@ -22,4 +22,3 @@
 4. 点击“描述”，可为书籍添加简介。
 
 5. 点击“字体大小方案”，可设置全局统一字体大小或自定义局部字体大小。
-

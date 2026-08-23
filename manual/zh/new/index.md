@@ -1,13 +1,13 @@
 [用户手册](/yeswriter/manual/zh) >
 
-新建
+创建内容
 ---
-吾绘写作 - 每一个“我”皆热爱记录与创作。
+了解如何新建文本、类别、书籍和文件夹，快速搭建自己的写作与记录空间。
 
 - [新建文本](new_text.md)
 
-- [新建类别](new_category.md)
+- [添加类别](new_category.md)
 
-- [新建书籍](new_book.md)
+- [创建书籍](new_book.md)
 
-- [新建文件夹](new_folder.md)
+- [创建文件夹](new_folder.md)

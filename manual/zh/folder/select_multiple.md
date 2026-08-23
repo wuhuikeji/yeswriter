@@ -1,6 +1,6 @@
-[用户手册](/yeswriter/manual/zh) > [文件夹](/yeswriter/manual/zh/folder) >
+[用户手册](/yeswriter/manual/zh) > [文件夹管理](/yeswriter/manual/zh/folder) >
 
-选择多个文件夹
+批量管理文件夹
 ---
 
 #### 操作步骤

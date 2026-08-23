@@ -1,6 +1,6 @@
-[用户手册](/yeswriter/manual/zh) > [书籍页面操作](/yeswriter/manual/zh/book_page) >
+[用户手册](/yeswriter/manual/zh) > [书籍管理](/yeswriter/manual/zh/book_page) >
 
-排序方式
+调整文本和类别排序
 ---
 #### 操作步骤
 
@@ -8,7 +8,7 @@
 
 ![](imgs/sort_by.png)
 
-手动排序
+手动调整顺序
 ---
 #### 操作步骤
 

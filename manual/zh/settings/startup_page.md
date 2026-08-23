@@ -1,6 +1,6 @@
 [用户手册](/yeswriter/manual/zh) > [设置](/yeswriter/manual/zh/settings) >
 
-启动页
+设置启动页
 ---
 
 ### 操作步骤

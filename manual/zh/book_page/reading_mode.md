@@ -1,4 +1,4 @@
-[用户手册](/yeswriter/manual/zh) > [书籍页面操作](/yeswriter/manual/zh/book_page) >
+[用户手册](/yeswriter/manual/zh) > [书籍管理](/yeswriter/manual/zh/book_page) >
 
 阅读模式
 ---

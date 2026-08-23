@@ -1,6 +1,6 @@
-[用户手册](/yeswriter/manual/zh) > [数据备份和恢复](/yeswriter/manual/zh/data_backup_and_recovery) >
+[用户手册](/yeswriter/manual/zh) > [备份与恢复](/yeswriter/manual/zh/data_backup_and_recovery) >
 
-管理备份数据
+管理备份文件
 ---
 #### 操作步骤
 

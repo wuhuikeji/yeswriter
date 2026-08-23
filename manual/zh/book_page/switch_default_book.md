@@ -1,6 +1,6 @@
-[用户手册](/yeswriter/manual/zh) > [书籍页面操作](/yeswriter/manual/zh/book_page) >
+[用户手册](/yeswriter/manual/zh) > [书籍管理](/yeswriter/manual/zh/book_page) >
 
-切换默认书籍
+设置默认书籍
 ---
 #### 操作步骤
 
