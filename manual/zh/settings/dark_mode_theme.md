@@ -1,4 +1,4 @@
-[用户手册](/yeswriter/manual/zh) > [设置](/yeswriter/manual/zh/more) >
+[用户手册](/yeswriter/manual/zh) > [设置](/yeswriter/manual/zh/settings) >
 
 深色模式和主题色切换
 ---
@@ -7,7 +7,7 @@
 ### 操作步骤
 1. 在主屏幕上点击「我的」。
 2. 进入设置。
-3. 点击"深色模式&主题"。
+3. 点击“深色模式&主题”。
 4. 在此处，您可以切换深色模式并选择不同的主题颜色以定制个性化界面。
 
 ![](imgs/dark_mode.png)

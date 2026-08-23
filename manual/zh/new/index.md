@@ -1,8 +1,8 @@
-[用户手册]/yeswriter/manual/zh) >
+[用户手册](/yeswriter/manual/zh) >
 
 新建
 ---
-吾绘写作 - 每一个“我”皆热爱记录和创作。
+吾绘写作 - 每一个“我”皆热爱记录与创作。
 
 - [新建文本](new_text.md)
 
