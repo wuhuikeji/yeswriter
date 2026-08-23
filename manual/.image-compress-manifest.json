@@ -1,0 +1,378 @@
+{
+  "files": {
+    "zh/book_page/imgs/edit_cover.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "ce64d6fd25b13a0c7bc5d6adbefdc7488194b15a6ea59bd8082e724bdec88488",
+      "size": 154399,
+      "status": "compressed"
+    },
+    "zh/book_page/imgs/link_book1.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "b9c88a153225961fd66a843040749f8b23d52ac95ea584ea14e744099a1d624f",
+      "size": 45716,
+      "status": "compressed"
+    },
+    "zh/book_page/imgs/manual_sorting.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "ab48e8100461bc6c29ecc850d65343c1be7f5fca6ef7d94dd8693a918d2cd2c0",
+      "size": 70452,
+      "status": "compressed"
+    },
+    "zh/book_page/imgs/reading_mode.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "6a15318fec9a5c3c65c29d0dc622071b403acee002204c621837b3f2f9144f1c",
+      "size": 85752,
+      "status": "compressed"
+    },
+    "zh/book_page/imgs/search.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "7a34bc9b9515be38601e0620d946982e57d80713b0ac3d54e76a318173bcf27b",
+      "size": 24591,
+      "status": "compressed"
+    },
+    "zh/book_page/imgs/sort_by.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "81c2f22454ce1194a4c90d8dbd49ce1e9901611ff272b5dd1a2adac1729a6642",
+      "size": 124851,
+      "status": "compressed"
+    },
+    "zh/book_page/imgs/switch_default_book.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "39d781b1ac59f54dbddbe242b626a3062396f9b49682169fcd673014cd1b2c0c",
+      "size": 46220,
+      "status": "compressed"
+    },
+    "zh/data_backup_and_recovery/imgs/automatic_backup.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "94b17e0532691ab938a2da36fe26da46198d254d497a89a258bb5c207a7fd991",
+      "size": 192526,
+      "status": "compressed"
+    },
+    "zh/data_backup_and_recovery/imgs/data_backup.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "35ecc1c8d154be7adce6f50432c584614fc71bc2b105b040e653c5c263184fba",
+      "size": 156835,
+      "status": "compressed"
+    },
+    "zh/data_backup_and_recovery/imgs/data_recovery1.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "139287f92bdd845d4748fc7642afc1180ec891b78046f2e57da786f753f115c5",
+      "size": 134527,
+      "status": "compressed"
+    },
+    "zh/data_backup_and_recovery/imgs/entrance1.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "7f2ac386820fc8d17b8d0701a5645248b2447d869ed9d59bd64f562bedc85e70",
+      "size": 85197,
+      "status": "compressed"
+    },
+    "zh/data_backup_and_recovery/imgs/jianguoyun.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "0fd5288c1f4330e9c00cff830285cf651398abcc62ad9f3f61787344414ed0cf",
+      "size": 104737,
+      "status": "skipped"
+    },
+    "zh/data_backup_and_recovery/imgs/manage_backup_data1.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "0054ffc1dbb6d44b2c073d1e17f063b1538389e2f09bc1371314cad3b9f9956e",
+      "size": 223405,
+      "status": "compressed"
+    },
+    "zh/folder/imgs/folder_sorting.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "310b9710291a498cfe728b7ff9464d7156bb1e67fad1398826ee7e6255eaf96f",
+      "size": 59288,
+      "status": "compressed"
+    },
+    "zh/folder/imgs/folder_sorting1.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "62cd78b518cb60ece563d71a5a15002f06e14eacaf614ec1854eafe9db86d713",
+      "size": 58690,
+      "status": "compressed"
+    },
+    "zh/folder/imgs/new_folder.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "3bbad94d4fa943a249509fe076fb7b7f8cd8ce00dd24ed7b0a80d747ec036233",
+      "size": 89003,
+      "status": "compressed"
+    },
+    "zh/folder/imgs/select_multiple.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "3db6b89916157fb4653cad1b3b7a3cd0199cd30d72a27ebaa5f67541286e1773",
+      "size": 55256,
+      "status": "compressed"
+    },
+    "zh/imgs/icon.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "e5f162369584a68580e59385f1530e2711d0ff1fe82475ca92f9aeddaa53733f",
+      "size": 1509,
+      "status": "compressed"
+    },
+    "zh/new/imgs/new_book1.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "48c69cab2d5de2b0392c79429d8d8f2d45d308da780a8bb67751c70f616100c7",
+      "size": 43795,
+      "status": "compressed"
+    },
+    "zh/new/imgs/new_category.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "5fed08c9046afb84c7105d3429f6f2c820774c2558d8ed577848887786255e90",
+      "size": 54104,
+      "status": "compressed"
+    },
+    "zh/new/imgs/new_folder.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "3bbad94d4fa943a249509fe076fb7b7f8cd8ce00dd24ed7b0a80d747ec036233",
+      "size": 89003,
+      "status": "compressed"
+    },
+    "zh/new/imgs/new_text.png": {
+      "kind": "jpeg",
+      "params": {
+        "quality": 82,
+        "tool": "djpeg+cjpeg"
+      },
+      "sha256": "801e1e95f698657df5ea5e189c06ee4228bdbbc3112806ae672764998bc87ae6",
+      "size": 87075,
+      "status": "compressed"
+    },
+    "zh/new/imgs/new_text1.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "1c4c494f644d314913e0d1b11a9c794abc5cdd91587024d29ec43478a939dca0",
+      "size": 54327,
+      "status": "compressed"
+    },
+    "zh/notes_page/imgs/brush.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "51e8d3ac1550ea568d624c62d3d7e5bee9d44145ecc6f3171fdfeca2e1f98442",
+      "size": 215478,
+      "status": "compressed"
+    },
+    "zh/notes_page/imgs/insert_picture.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "a8cf177f268661baa36485b99ae340a1b75538b63afbce26e75a3b43288f16ff",
+      "size": 22176,
+      "status": "compressed"
+    },
+    "zh/notes_page/imgs/quick_toolbar.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "da2c45f2439d0c47b75801107e8471e2b347ad33624e994e365edc46d1edd6c3",
+      "size": 70893,
+      "status": "compressed"
+    },
+    "zh/notes_page/imgs/quick_toolbar1.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "ce6ee0a79ce0aefc61545150a4ce698a53348ca8386a702aebab6dd8c07d8104",
+      "size": 21765,
+      "status": "compressed"
+    },
+    "zh/settings/imgs/dark_mode.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "f36fc090c8c2724af510cf37430ad3edf1790c5de295909b5d861fa072e886ba",
+      "size": 149493,
+      "status": "compressed"
+    },
+    "zh/settings/imgs/privacy_lock.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "081990a3b690698a9b75f3996a66af5ab673eaf9da483e362cb59d30f3e83e1e",
+      "size": 93409,
+      "status": "compressed"
+    },
+    "zh/settings/imgs/startup_page.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "a1842fbb6dce3c1dc2cac14efa0bfcd1e3acbd7501c7b12045111f30eb7888f5",
+      "size": 101427,
+      "status": "compressed"
+    },
+    "zh/to_do/imgs/associated_notes.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "899b238114491fcee97ee7901e51542b250b948ab4612def34773656cf53d215",
+      "size": 349756,
+      "status": "compressed"
+    },
+    "zh/to_do/imgs/new_to_do.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "e8ad531754c6e6f2be4a9747a9ea31d063871703e6e1c2d46be0fde9603bc6b5",
+      "size": 150792,
+      "status": "compressed"
+    },
+    "zh/to_do/imgs/new_to_do1.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "c1f3ca608308738189bd0d1fa47326964d9c3e43935a00aff3e4673d9023afa9",
+      "size": 54605,
+      "status": "compressed"
+    },
+    "zh/to_do/imgs/to_do_filter.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "96fd591090366cacf8eb69047dc477f905b5835644ea186d80f49aa3f8c559bd",
+      "size": 55614,
+      "status": "compressed"
+    }
+  },
+  "version": 1
+}
