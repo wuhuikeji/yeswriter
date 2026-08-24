@@ -6,16 +6,18 @@
         const urlParams = new URLSearchParams(window.location.search);
         const lang = (urlParams.get('lang') || '').toLowerCase();
         if (lang) {
-            if (lang.startsWith("zh")) {
-                if (lang.startsWith("zh-cn")) {
-                    window.location.href = "zh";
-                } else {
-                    window.location.href = "zh-tw";
-                }
-            } else if (lang.startsWith("de")) {
-                window.location.href = "de";
-            } else if (lang.startsWith("fr")) {
-                window.location.href = "fr";
+        if (lang.startsWith("zh")) {
+            if (lang.startsWith("zh-cn")) {
+                window.location.href = "zh";
+            } else {
+                window.location.href = "zh-tw";
+            }
+        } else if (lang.startsWith("ja")) {
+            window.location.href = "ja";
+        } else if (lang.startsWith("de")) {
+            window.location.href = "de";
+        } else if (lang.startsWith("fr")) {
+            window.location.href = "fr";
             } else if (lang.startsWith("it")) {
                 window.location.href = "it";
             } else if (lang.startsWith("es")) {
