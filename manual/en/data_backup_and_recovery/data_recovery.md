@@ -14,7 +14,7 @@ Restore Data
 
 5. Tap Confirm to start restoring data.
 
-![](imgs/data_recovery1.png)
+![](imgs/data_recovery 2.png)
 
 #### Tips
 

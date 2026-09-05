@@ -8,7 +8,7 @@ Change Book Cover and Font
 
 2. Tap Edit to open the book editing page.
 
-![](imgs/edit_cover.png)
+![](imgs/edit_cover1.png)
 
 #### Tips
 

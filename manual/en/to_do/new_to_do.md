@@ -12,7 +12,7 @@ Create To-Do
 
 4. Tap Confirm to create it.
 
-![](imgs/new_to_do.png)
+![](imgs/new_to_do2.png)
 
 #### Tips
 
@@ -22,4 +22,4 @@ Create To-Do
 
 3. Pin item: tap Pin in the upper-right corner of an item in the list to move it to the top.
 
-![](imgs/new_to_do1.png)
+![](imgs/new_to_do4.png)

@@ -9,7 +9,7 @@ Create Book
 2. Tap +.
 3. Enter the book title.
 
-![](imgs/new_book1.png)
+![](imgs/new_book.png)
 
 #### Tips
 

@@ -15,4 +15,4 @@ With backup and restore, you can protect important information and avoid acciden
 
 - [Back Up to the Cloud with Jianguoyun](jianguoyun_backup.md)
 
-![](imgs/entrance1.png)
+![](imgs/entrance2.png)

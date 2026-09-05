@@ -5,4 +5,4 @@ Use Brush
 
 Tap Brush to enter the canvas editor, where you can insert lines, emojis, text, images, and other elements.
 
-![](imgs/brush.png)
+![](imgs/brush1.png)

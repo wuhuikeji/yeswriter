@@ -9,4 +9,4 @@ This lets you tap a to-do to quickly jump to the related text.
 
 When viewing the text, you can also see markers related to to-dos, reminding you to complete related tasks.
 
-![](imgs/associated_notes.png)
+![](imgs/associated_notes1.png)
