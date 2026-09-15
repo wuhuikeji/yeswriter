@@ -385,6 +385,17 @@
       "size": 356533,
       "status": "compressed"
     },
+    "en/book_page/imgs/edit_cover1.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "6b5128592b94835c5081f2563191f95c9ea6363f0af31e2b030afd675203d7d9",
+      "size": 162271,
+      "status": "compressed"
+    },
     "en/book_page/imgs/link_book1.png": {
       "kind": "png",
       "params": {
@@ -473,6 +484,17 @@
       "size": 422547,
       "status": "compressed"
     },
+    "en/data_backup_and_recovery/imgs/data_recovery 2.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "f1d320763cf6bd833231453f64c058646e1992cccb3f2afadec9b919be031d7b",
+      "size": 140102,
+      "status": "compressed"
+    },
     "en/data_backup_and_recovery/imgs/data_recovery1.png": {
       "kind": "png",
       "params": {
@@ -493,6 +515,17 @@
       },
       "sha256": "618053abdaccd3a82b3047257433735f9e8b9e0b5a534dbd5e33543cbe36e52c",
       "size": 300505,
+      "status": "compressed"
+    },
+    "en/data_backup_and_recovery/imgs/entrance2.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "48f485cd0698c535f5a8cad35fc88f00898cb1aa9892c8f9391c1d9835cda9a0",
+      "size": 71805,
       "status": "compressed"
     },
     "en/data_backup_and_recovery/imgs/jianguoyun.png": {
@@ -572,6 +605,17 @@
       "size": 1509,
       "status": "skipped"
     },
+    "en/new/imgs/new_book.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "0e2bee6a4f7235920f9b451842f582e96ee446868e3aaaaf49b9ef0b00869d92",
+      "size": 57282,
+      "status": "compressed"
+    },
     "en/new/imgs/new_book1.png": {
       "kind": "png",
       "params": {
@@ -638,6 +682,17 @@
       "size": 567909,
       "status": "compressed"
     },
+    "en/notes_page/imgs/brush1.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "1064798fdf625bc4af74ec4047fff8405a34096d726cb23eebd85963b011c071",
+      "size": 190180,
+      "status": "compressed"
+    },
     "en/notes_page/imgs/insert_picture.png": {
       "kind": "png",
       "params": {
@@ -682,6 +737,17 @@
       "size": 381605,
       "status": "compressed"
     },
+    "en/settings/imgs/dark_mode1.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "970f880452f50d12b101ff2f4ff3bd4f14d8ef42674aa66c02ab1483776cd972",
+      "size": 212425,
+      "status": "compressed"
+    },
     "en/settings/imgs/privacy_lock.png": {
       "kind": "png",
       "params": {
@@ -715,6 +781,17 @@
       "size": 611355,
       "status": "compressed"
     },
+    "en/to_do/imgs/associated_notes1.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "de13454e5cc51234610305c1905b98a685d164b85a0ed5567ecb77eabb15b2f6",
+      "size": 343035,
+      "status": "compressed"
+    },
     "en/to_do/imgs/new_to_do.png": {
       "kind": "png",
       "params": {
@@ -737,6 +814,28 @@
       "size": 144326,
       "status": "compressed"
     },
+    "en/to_do/imgs/new_to_do2.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "b438ed3c1fa4d68dd49edbc893e4e733b019264e117a8033a9cb09609922aa59",
+      "size": 133118,
+      "status": "compressed"
+    },
+    "en/to_do/imgs/new_to_do4.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "117df8ebbe13b0d0764d5218e92cafd4d33a970e16a25395b32d0aa18178836c",
+      "size": 57810,
+      "status": "compressed"
+    },
     "en/to_do/imgs/to_do_filter.png": {
       "kind": "png",
       "params": {
@@ -746,6 +845,17 @@
       },
       "sha256": "e8a95efd8ac58aa7e00796842788544a9bf168f5ad9a20c14a33d3b6beaee941",
       "size": 78373,
+      "status": "compressed"
+    },
+    "en/to_do/imgs/to_do_filter1.png": {
+      "kind": "png",
+      "params": {
+        "quality": "65-80",
+        "speed": 1,
+        "tool": "pngquant"
+      },
+      "sha256": "5b12759cadcf3a995fa4b1ebc060eb4b146d6b4bdf44fa2cf3e54730c1836347",
+      "size": 53054,
       "status": "compressed"
     },
     "es/book_page/imgs/edit_cover.png": {
