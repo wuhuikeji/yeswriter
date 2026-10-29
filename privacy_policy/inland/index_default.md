@@ -30,6 +30,13 @@ The **basic functions of YesWriter do not require membership registration**. If 
 
 - **Read WiFi connection status**: Some functions will distinguish between Wi-Fi networks and data networks to perform data backup operations under Wi-Fi networks to save traffic.
 
+### Automatic App Startup for Reminders
+
+- **Trigger scenario and purpose**: When you actively enable a to-do reminder, the app uses a system alarm to wake the app at your chosen reminder time and send a local notification reminding you to address the corresponding to-do item.
+- **Trigger rule**: Each reminder triggers once at its scheduled time.
+- **Necessity**: This system alarm mechanism is needed to deliver your chosen to-do reminders when the app is in the background or is not running.
+- **How to disable**: You can turn off the reminder in the corresponding to-do item. Turning off the reminder, completing the to-do item, or deleting it cancels the corresponding system alarm task, so that reminder will no longer trigger.
+
 ### Third-party SDKs Used
 - Alipay SDK: Alipay payment, [Alipay SDK Privacy Statement](https://opendocs.alipay.com/open/54/01g6qm)
 
@@ -66,6 +73,6 @@ Release Date: Wuhui Technology Co., Ltd.
 
 Effective Date: Wuhui Technology Co., Ltd.
 
-Updated Date: Wuhui Technology Co., Ltd.
+Updated Date: October 30, 2026
 
 Huizhou Wuhui Technology Co., Ltd.
